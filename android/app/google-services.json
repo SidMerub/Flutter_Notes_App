@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30478028953",
+    "project_id": "notes-app-ce01c",
+    "storage_bucket": "notes-app-ce01c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30478028953:android:7440868eb6a1221f442808",
+        "android_client_info": {
+          "package_name": "com.example.voicenotesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ-kvyNOO0HPgyn_uV4vt1PuxfFKhgvuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
